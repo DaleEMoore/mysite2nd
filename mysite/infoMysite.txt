@@ -1,0 +1,23 @@
+Overview
+Relearning Django towards better views.
+https://github.com/DaleEMoore/mysite2nd
+https://docs.djangoproject.com/en/1.7/intro/tutorial01/
+
+
+TODO
+Get context processing going?
+    https://docs.djangoproject.com/en/1.7/ref/templates/api/
+    http://www.b-list.org/weblog/2006/jun/14/django-tips-template-context-processors/
+    http://www.b-list.org/weblog/2007/nov/01/django-tips-template-loading-and-rendering/
+    http://stackoverflow.com/questions/2246725/django-template-context-processors
+    http://www.djangobook.com/en/2.0/chapter09.html
+
+
+TESTING with https://docs.djangoproject.com/en/1.7/intro/tutorial06/
+
+
+
+
+Logs
+Tue Jan  6 13:41:38 CST 2015
+https://docs.djangoproject.com/en/1.7/intro/tutorial04/
